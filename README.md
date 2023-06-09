@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **shyamkumarkanuru@gmail.com**
 
+- ☛ Portfolio: [https://github.com/shyamkumar9]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shyam_kanuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shyam_kanuru" height="30" width="40" /></a>
