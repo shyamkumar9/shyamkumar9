@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shyamkumarkanuru@gmail.com**
 
-- ☛ Portfolio: [https://github.com/shyamkumar9]
+- Portfolio –> https://github.com/shyamkumar9
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
