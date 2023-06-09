@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shyamkumar9](https://github.com/shyamkumar9)
 
-- 📫 How to reach me **shyamkumarkanuru@gmail.com**
+- 📫 Reach out to me at **shyamkumarkanuru@gmail.com**
 
 - Portfolio –> https://github.com/shyamkumar9
 
