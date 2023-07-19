@@ -6,7 +6,7 @@
 
 - 📫 Reach out to me at **shyamkumarkanuru@gmail.com**
 
-- Portfolio –> https://shyamkumar9.github.io/portfolio/
+- Check out my Portfolio at https://shyamkumar9.github.io/portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
