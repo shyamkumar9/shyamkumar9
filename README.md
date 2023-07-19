@@ -1,12 +1,12 @@
- <h1 align="center">Hi 👋, I'm Shyam Kumar Kanuru</h1>
-<h3 align="center">Tech Enthusiast with a Passion for Front-End Exploration and Data Insights</h3>
+<h1 align="center"> Hi 👋, I'm Shyam Kumar Kanuru</h1>
+<h3 align="center"> Tech Enthusiast with a Passion for Software Development and Data Exploration.</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/shyamkumar9](https://github.com/shyamkumar9)
+All of my projects are available at [https://github.com/shyamkumar9](https://github.com/shyamkumar9)
 
-- 📫 Reach out to me at **shyamkumarkanuru@gmail.com**
+Reach out to me at **shyamkumarkanuru@gmail.com**
 
-- Check out my Portfolio at https://shyamkumar9.github.io/portfolio/
+Check out my Portfolio at https://shyamkumar9.github.io/portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
